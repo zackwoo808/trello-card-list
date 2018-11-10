@@ -1,6 +1,12 @@
-.board {
+/*.board {
 	display: flex;
 	justify-content: center;
+}*/
+
+.board-list {
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
 }
 
 .board-name {
